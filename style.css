@@ -1,0 +1,448 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.first{
+    background-image: url(/netflix/images/netflix01.jpg);
+    height: 600px;
+}
+.main{
+    display: flex;
+    gap: 850px;
+    padding-top: 20px;
+    
+}
+
+/* .net{
+    margin-left: 130px;
+    color: #E50914;
+    font-size: 35px;
+    font-weight: 900;
+    font-family:cursive; */ */
+/* /* } */
+.firstbut{
+
+    margin-left: -100px;
+    background-color: #9A161D;
+    border-radius: 10px;
+    border: none;
+    /* width: 100px; */
+    font-size: 14px;
+
+}
+.mai{
+color: white;
+text-align: center;
+}
+.Unlimited{
+ font-size: 48px;
+ font-weight: 900;  
+ padding-top: 70px; 
+ font-family: Segoe UI,Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+ Segoe UI Italic;
+ font-style: normal;
+ color: RGB(255, 255, 255);
+ font-stretch: 100%;
+
+}
+.watch{
+ font-size: 24px;
+ font-weight: 400;   
+ font-family: Segoe UI,Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+ Segoe UI Italic;
+ font-style: normal;
+ color: RGB(255, 255, 255);
+ font-stretch: 100%;
+ padding-top: 10px;
+
+  
+}
+.ready{
+ font-size: 20px;
+ font-weight: 400;   
+ font-family: Segoe UI,Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+ Segoe UI Italic;
+ font-style: normal;
+ color: RGB(255, 255, 255);
+ font-stretch: 100%;
+ padding-top: 10px;
+    
+
+}
+.firstin{
+    margin-left: -100px;
+    width: 400px;
+    height: 50px;
+    background-color: #161717;
+    margin-top: 0px; 
+    border-style: solid;
+    border-radius: 10px;
+
+}
+.emaill{
+ margin-top: 0px; 
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: #C40B14;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.second{
+    background-color: rgb(0,0,0);
+    height: 600px;
+    margin-top: 0px; 
+
+}
+.set{
+    display: flex;
+    gap: 200px;
+    padding-top: px;
+    margin-right: 5px;
+
+}
+.set .tv{
+    padding-right: 50px;
+    padding-top: 200px;
+}
+.enjoy{
+    padding-top: 200px;
+    font-size: 48px;
+    font-weight: 900;
+    color: RGB(255, 255, 255);
+    padding-left: 80px;
+
+}
+.joy{
+    font-size: 24px;
+    color: white;
+    text-align: left;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol
+    Segoe UI Italic;
+    font-weight: 400;
+    font-weight: 400;
+    padding-left: 80px;
+
+
+
+
+}
+.first{
+    background-color: rgb(0,0,0);
+}
+.second{
+    background-color: rgb(0,0,0);
+    margin-top: 5px;
+
+}
+.third{
+    background-color: rgb(0,0,0);
+    margin-top: 5px;
+    height: 500px;
+}
+.imagefirst{
+    display: flex;
+    gap: 300px;
+}
+.download{
+    background-color: rgb(0,0,0);
+}
+.down{
+    padding-top: 100px;
+    margin-right: 5px;
+    text-align: left;
+    font-weight: 900;
+    font-style: normal;
+    font-family: Segoe UI,Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    color: RGB(255, 255, 255);
+    font-size: 48px;
+}
+.load{
+    margin-right: 5px; 
+    color: RGB(255, 255, 255);
+    font-size: 24px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: 100%;
+}
+.forth{
+    background-color: rgb(0,0,0);
+    height: 400px;
+    margin-top: 5px;
+}
+.wateve{
+    color: RGB(255, 255, 255);
+    font-size: 48px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: 100%;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.everywhere{
+    color: RGB(255, 255, 255);
+    font-size: 48px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: 100%;
+    padding-left: 80px;
+}
+.stream{
+    color: RGB(255, 255, 255);
+    font-size: 24px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: 100%;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.shows{
+    color: RGB(255, 255, 255);
+    font-size: 24px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: 100%;
+    padding-left: 80px;
+
+}
+.and{
+    color: RGB(255, 255, 255);
+    font-size: 24px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: 100%;
+    padding-left: 80px;
+
+}
+.wordsonly{
+    padding: 100px;
+}
+.fifth{
+    background-color: rgb(0,0,0);
+    height: 400px;
+    margin-top: 5px;
+}
+.create{
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 48px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+}
+.imagesecond{
+    display: flex;
+    gap: 30px;
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.adventures{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+
+}
+.characters{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+}
+.membership{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+}
+.frequently{
+    font-weight: 400;
+    font-size: 48px;
+    font-weight: 900;
+    font-family: Segoe UI, Segoe UI Bold,Segoe UI Light,Segoe UI Symbol,
+    Segoe UI Italic;
+    text-align: center;
+    align-items: center;
+}
+.sixth{
+    background-color:rgb(0,0,0);
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    height: 600px;
+    
+}
+.netflixfirst{
+    display: flex;
+    gap: 500px;
+    box-shadow: 2px 1px 1px solid black;
+    border-radius: 1px;
+    border: none;
+    text-align: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(45,45,45);
+    height: 50px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5px;
+    border-width: 70px;
+    border-left: 20px;
+
+
+}
+.netflixsecond{
+    display: flex;
+    gap: 377px;
+    box-shadow: 2px 1px 1px solid black;
+    border-radius: 1px;
+    border: none;
+    text-align: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(45,45,45);
+    height: 50px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5px;
+    border-width: 70px;
+    border-left: 20px;
+}
+.netflixthird{
+    display: flex;
+    gap: 468px;
+    box-shadow: 2px 1px 1px solid black;
+    border-radius: 1px;
+    border: none;
+    text-align: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(45,45,45);
+    height: 50px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5px;
+    border-width: 70px;
+    border-left: 20px;
+}
+.netflixfourth{
+    display: flex;
+    gap: 490px;
+    box-shadow: 2px 1px 1px solid black;
+    border-radius: 1px;
+    border: none;
+    text-align: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(45,45,45);
+    height: 50px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5px;
+    border-width: 70px;
+    border-left: 20px;
+}
+.netflixfifth{
+    display: flex;
+    gap: 385px;
+    box-shadow: 2px 1px 1px solid black;
+    border-radius: 1px;
+    border: none;
+    text-align: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(45,45,45);
+    height: 50px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5px;
+    border-width: 70px;
+    border-left: 20px;
+}
+.netflixsixth{
+    display: flex;
+    gap: 421px;
+    box-shadow: 2px 1px 1px solid black;
+    border-radius: 1px;
+    border: none;
+    text-align: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(45,45,45);
+    height: 50px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5px;
+    border-width: 70px;
+    border-left: 20px;
+}
+
+.plus{
+    font-size: 60px;
+    font-weight: 1200;
+}
+.butstart{
+    border: none;
+    border-radius: 4px;
+    box-shadow: 2px 1px 1px solid red;
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    margin-top: 11px;
+}
+.center{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.email{
+    height: 50px;
+    width: 300px;
+    margin-top: 10px;
+
+}
+
+.seventh{
+    background-color: rgb(0,0,0);
+    color: white;
+    padding-top: 70px;
+    padding-left: 150px;
+    padding-right: 60px;
+    height: 600px;
+    margin-top: 5px;
+}
+.last{
+    display: flex;
+    gap: 130px;
+}
+
+.english{
+  color: white; 
+  background-color: rgb(0,0,0); 
+}
